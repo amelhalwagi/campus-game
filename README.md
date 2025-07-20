@@ -15,6 +15,14 @@ A PHP-based interactive adventure game set on a mysterious campus. Users registe
 3. Update `config.php` with your DB credentials.
 4. Access the site via your browser (e.g., `http://localhost/project-folder/`).
 
+## Try it Online
+You can play the live version hosted on the student server here:
+
+**🔗 http://node154.peicloud.ca/a4/index.php**
+
+> No download required. Just register and start your adventure!
+
+
 ## Folder Structure
 - `index.php` – Homepage
 - `register.php`, `login.php`, `logout.php` – User auth
