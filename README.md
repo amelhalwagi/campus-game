@@ -16,7 +16,7 @@ A PHP-based interactive adventure game set on a mysterious campus. Users registe
 4. Access the site via your browser (e.g., `http://localhost/project-folder/`).
 
 ## Try it Online
-You can play the live version hosted on this server here:
+You can play the live version hosted from here:
 
 **🔗 http://node154.peicloud.ca**
 
